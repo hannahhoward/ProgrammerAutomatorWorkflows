@@ -1,11 +1,10 @@
 # Programmer Automator Workflows
----
 
 I get distracted a lot on my computer, and have a habit of leaving windows/tabs open. Also, I work as a coding instructor, which forces me switch font sizes on programs often so they're view viewable on a projector.
 
 These are two relatively simple automator workflows I built to "reset" my desktop before I start working or teaching.
 
-##DevSetup
+###DevSetup
 
 The DevSetup workflow uses 4 programs: Chrome, Terminal, Sublime, and SelfControl (a social media blocker)
 
